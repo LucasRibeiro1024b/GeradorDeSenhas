@@ -1,0 +1,26 @@
+.conteudo {
+  width: 40%;
+  margin: 2em auto;
+  padding: 1em;
+  border: 0.2em solid #000000;
+}
+
+.description {
+  text-align: center;
+  margin: 1em auto 1em auto;
+}
+
+.titulo {
+  font-size: 1.5em;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+#entrada {
+  width: 20%;
+}
+
+.senha {
+  text-align: center;
+  font-weight: bold;
+}
